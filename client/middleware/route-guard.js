@@ -7,5 +7,8 @@ export default function(context) {
 }
 
 //how to use
+//<script>
+//export default {
 //	middleware: ['route-guard'],
-//  meta: { routeAccess: <your-permission> },
+//  meta: { routeAccess: <your-permission> }
+//}
