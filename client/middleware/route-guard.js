@@ -5,3 +5,7 @@ export default function(context) {
         }
     }
 }
+
+//how to use
+//	middleware: ['route-guard'],
+//  meta: { routeAccess: <your-permission> },
